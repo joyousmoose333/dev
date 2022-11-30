@@ -1,0 +1,20 @@
+DEV README
+
+Describe the goal of the application and value to a user
+    This is an application inspired by the Law's field guide to California wildflowers,
+    which I have used throughout my travels in the Sierra Nevada. This 
+    app allows users to view wildflowers with details, sort and filter the flowers 
+    to help them find what they are looking for, and add the flower to their 
+    personal field journal to remember what they have seen outside. 
+
+Link to your deployed web application running online
+    xxxxxxxx
+
+Explain the organization of your Components, and the props and state related to them
+    I have one Plant component which.......
+    Lots of props which represent the different categories needed for filtering.....
+    states............ 
+
+Note the usability principles considered for layout and hierarchy
+    I considered the usability principles of visual hierarchy and .......
+
