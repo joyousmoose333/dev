@@ -1,16 +1,20 @@
-.App {
+.my-app {
   text-align: center;
   color: #008000;
   margin-left: 2%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  /* justify-content: space-around; */
+  /* flex-direction: row; */
   height: fit-content;
 }
 
-.title {
+.header {
   display: flex;
   flex-flow: wrap;
-  font-size: calc(2vmin);
+  font-size: larger;
+  /* position:fixed;
+  top: 0; */
   width: 100%;
 }
 
@@ -18,20 +22,21 @@
   display: flex;
   flex-flow: wrap;
   font-size: calc(2vmin);
-  width: 100%;
-}
-
-.filter {
+  float: left;
+  width: 60%;
 }
 
 .Plant {
   background-color: green;
   color: white;
-  font-size: calc(vmin);
-  width: 30%;
-  margin: 5%;
+  font-size: small;
+  width: 13%;
+  word-wrap: break-word;
+  margin: 2%;
   padding: 5%;
-  border-radius: 15px;
+  text-align: justify;  
+
+  border-radius: 10px;
 }
 
 .Plant button {
@@ -52,12 +57,18 @@
 }
 
 .my-list {
-  position: sticky; /* sticky wont work :,( */
+  position:fixed;
   right: 0;
+  font-size: large;
   float: right;
-  width: 200%;
-  flex-direction: column;
-  display: flex;
+  padding-right: 10%;
+  /* justify-content: left; */
+  /* display: inline; */
+  /* background-color: red;  DIVS NOT ALIGNED AS COLS */ 
+  /* flex: 3; */
+  /* width: 150%; */
+  /* flex-direction: column; */
+  /* display: flex; */
 }
 
 .more-info {

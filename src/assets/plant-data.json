@@ -6,7 +6,9 @@
       "habitat": "forest floor",
       "minSize": 6,
       "maxSize": 12,
-      "image": "images/snow-plant.png"
+      "color": "red",
+      "image": "images/snow-plant.png",
+      "rare": 1
     },
     {
       "name": "Shooting Stars",
@@ -15,7 +17,9 @@
       "habitat": "wet meadows",
       "minSize": 4,
       "maxSize": 24,
-      "image": "images/shooting-stars.png"
+      "color": "pink",
+      "image": "images/shooting-stars.png",
+      "rare": 0
     },
     {
       "name": "Western Azalea",
@@ -24,7 +28,9 @@
       "habitat": "moist places",
       "minSize": 2,
       "maxSize": 14,
-      "image": "images/azalea.png"
+      "color": "white",
+      "image": "images/azalea.png",
+      "rare": 1
     },
     {
       "name": "Elephant Heads",
@@ -32,8 +38,10 @@
       "maxElevation": 12000,
       "habitat": "wet meadows",
       "minSize": 1,
-      "maxSize": 2,      
-      "image": "images/elephant.png"
+      "maxSize": 2,   
+      "color": "pink",   
+      "image": "images/elephant.png",
+      "rare": 1
     },
     {
       "name": "Baby Blue Eyes",
@@ -41,8 +49,11 @@
       "maxElevation": 4000,
       "habitat": "moist meadows",
       "minSize": 4,
-      "maxSize": 10,      
-      "image": "images/baby.png"
+      "maxSize": 10,   
+      "color": "blue",   
+      "image": "images/baby.png",
+      "rare": 0
+      
     },
     {
       "name": "Coneflower",
@@ -50,8 +61,10 @@
       "maxElevation": 7000,
       "habitat": "moist meadows",
       "minSize": 2,
-      "maxSize": 6,      
-      "image": "images/coneflower.png"
+      "maxSize": 6, 
+      "color": "pink",     
+      "image": "images/coneflower.png",
+      "rare": 1
     },
     {
       "name": "Yosemite Aster",
@@ -59,8 +72,10 @@
       "maxElevation": 7000,
       "habitat": "forest floor",
       "minSize": 0.5,
-      "maxSize": 2,      
-      "image": "images/aster.png"
+      "maxSize": 2,  
+      "color": "purple",    
+      "image": "images/aster.png",
+      "rare": 0
     },
     {
       "name": "Cow Parsnip",
@@ -68,8 +83,10 @@
       "maxElevation": 9000,
       "habitat": "moist meadows",
       "minSize": 4,
-      "maxSize": 10,      
-      "image": "images/cow.png"
+      "maxSize": 10,    
+      "color": "white",  
+      "image": "images/cow.png",
+      "rare": 1
     },
     {
       "name": "Lupine",
@@ -78,7 +95,9 @@
       "habitat": "forest floor",
       "minSize": 0.5,
       "maxSize": 4,      
-      "image": "images/shooting-stars.png"
+      "color": "purple",
+      "image": "images/lupine.png",
+      "rare": 1
     },
     {
       "name": "Fireweed",
@@ -86,8 +105,10 @@
       "maxElevation": 11000,
       "habitat": "moist meadows",
       "minSize": 2,
-      "maxSize": 6,      
-      "image": "images/fireweed.png"
+      "maxSize": 6, 
+      "color": "pink",     
+      "image": "images/fireweed.png",
+      "rare": 0
     },
     {
       "name": "Western Blue Flag Iris",
@@ -95,8 +116,10 @@
       "maxElevation": 8500,
       "habitat": "wet meadows",
       "minSize": 0.5,
-      "maxSize": 2,      
-      "image": "images/shooting-stars.png"
+      "maxSize": 2, 
+      "color": "purple",     
+      "image": "images/blueflag.png",
+      "rare": 0
     },
     {
       "name": "Monkey Flower",
@@ -104,8 +127,10 @@
       "maxElevation": 10000,
       "habitat": "wet meadows",
       "minSize": 1,
-      "maxSize": 3,      
-      "image": "images/shooting-stars.png"
+      "maxSize": 3,   
+      "color": "yellow",   
+      "image": "images/monkey.png",
+      "rare": 1
     },
     {
       "name": "Western Bleeding Heart",
@@ -113,8 +138,10 @@
       "maxElevation": 7000,
       "habitat": "forest floor",
       "minSize": 1,
-      "maxSize": 2,      
-      "image": "images/shooting-stars.png"
+      "maxSize": 2,  
+      "color": "purple",    
+      "image": "images/western.png",
+      "rare": 1
     }
 
 ]
